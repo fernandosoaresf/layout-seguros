@@ -1,0 +1,54 @@
+.titulo-principal,.titulo-secundario {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.vantagens {
+    font-family: Inter;
+    text-align: center;
+}
+
+.texto-vantagens {
+    font-family: Inter;
+    text-align: left;
+}
+
+footer {
+	text-align: center;
+	background: url("imgs/quadrado-preto.png");
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+    font-size: 15px;
+    font-family: Inter;
+}
+
+.b-example-divider {
+    height: 1rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+
+  .icon {
+    margin-right: 15px;
+  }
+
+  .incluso {
+    padding-top: 50px;
+    padding-left: 130px;
+  }
+
+  .naoincluso {
+    padding-top: 20px;
+    padding-left: 130px;
+    margin-bottom: 80px;
+  }
+
+  .texto-procedimento {
+    font-family: Inter;
+    text-align: center;
+  }
