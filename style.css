@@ -6,6 +6,7 @@
 .vantagens {
     font-family: Inter;
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .texto-vantagens {
@@ -51,4 +52,43 @@ footer {
   .texto-procedimento {
     font-family: Inter;
     text-align: center;
+  }
+
+  .titulo-planos {
+    text-align: center;
+    padding-top: 50px; 
+  }
+
+  .subtexto-planos {
+    font-family: Inter;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+
+  .titulo-contato {
+    text-align: center;
+    padding-top: 25px; 
+  }
+
+  .subtexto-contato {
+    font-family: Inter;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  #lista-features{
+    font-family: inter;
+  }
+
+  .form-control {
+    margin-left: 10px;  
+  }
+
+  .contato {
+    font-family: inter;
+    margin: 10px;
+  }
+
+  #botao-envio {
+    margin: 10px;
   }
